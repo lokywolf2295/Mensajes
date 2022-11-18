@@ -28,4 +28,4 @@
 
 ## Formulario para Editar Mensajes:
 
-![Formulario para Editar](https://i.postimg.cc/xdFtVFFz/Editar.jpg)
+![Formulario para Editar](https://i.postimg.cc/NFGvTrXf/Editar.jpg)
